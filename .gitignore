@@ -1,0 +1,23 @@
+# Fichiers compilés Java
+bin/
+out/
+build/
+target/
+*.class
+*.jar
+
+# Fichiers générés
+metrics.txt
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
